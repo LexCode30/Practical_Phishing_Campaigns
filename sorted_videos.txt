@@ -1,0 +1,66 @@
+# Practical Phishing Campaigns
+
+1. The Perimeter - A Cat and Mouse Game  [s1.html]
+    001. About Me  ->  https://drive.google.com/file/d/10GIAG5EYDWCgwvc60E0mFUn2ioOv51cJ/preview
+    002. About the Course  ->  https://drive.google.com/file/d/10G3_ntM694AvToNGsGUcTF7xtl9XRlel/preview
+    003. An Important Announcement  ->  https://drive.google.com/file/d/108xOPLUsNTc7JOeYFfcOLb9zi_TP7IT6/preview
+    004. Today s Perimeter  ->  https://drive.google.com/file/d/107-S1c0aZTeZDhsKoO9MTmQvYf4WuC4b/preview
+    005. Modern Security Architecture  ->  https://drive.google.com/file/d/10IknVZvfRLJ00ggW--zmAJgPW4qaIaKR/preview
+    006. Phishing Domains Advice  ->  https://drive.google.com/file/d/101rVl_g9ClDZH_fyhMSZMbBlnULwOjGA/preview
+    007. Multi-Factor Authentication Advice  ->  https://drive.google.com/file/d/1-vlR0Y8lDO-qQTRuCDrpRxLV85FGAf3v/preview
+    008. Spam Filters Avoidance Advice  ->  https://drive.google.com/file/d/10IAB_6Frmc5j1lUl8xE6hNDDObDPUOo0/preview
+    009. Whitelisting Advice  ->  https://drive.google.com/file/d/10TWiJHupErnNDmxCMVPVwB90rxhMLevN/preview
+
+2. Domain Registration  [s2.html]
+    001. Domain Registrar Options  ->  https://drive.google.com/file/d/10T3u1GQdZ69_LCX9Cx279ZIQYH8gCSBE/preview
+    002. Amazon AWS Route 53 Setup  ->  https://drive.google.com/file/d/10T1lHpRF8_MvFCHoxgdoFfzHY5lcLfud/preview
+
+3. Email Registration  [s3.html]
+    001. Email Registrar Options  ->  https://drive.google.com/file/d/10NCc0ce_XMHn135jBU67kI1wRCmjdXYA/preview
+    002. Mailgun Setup  ->  https://drive.google.com/file/d/10UffZqz6DYNAfkJhfam_NhKPs2m-6p48/preview
+
+4. Gophish - Basic Phishing  [s4.html]
+    001. Creating an AWS EC2 Instance  ->  https://drive.google.com/file/d/10ZfBzAAjeVzkYyk4MUH9Eg_vG34oGoBs/preview
+    002. GoPhish Setup  ->  https://drive.google.com/file/d/10dA6tEAXbIxogyEE3OHASoRljbRggVHA/preview
+    003. Configuring Gophish as a System Service  ->  https://drive.google.com/file/d/10etA9BL3nAefUpPFHdhRaCu5jv2dETRn/preview
+    004. Configuring TLS Certificates  ->  https://drive.google.com/file/d/10fWmvU2ARYb7yuRLNRF4pKH4apz5Vpf1/preview
+    005. Email Sending Profile Setup  ->  https://drive.google.com/file/d/10mOQwIN7tDuN4K_sZbncztD6VTkOwNC1/preview
+    006. Sending Our First Campaign  ->  https://drive.google.com/file/d/10nLvGHnFNEHtOmZAlLvlHtB0FEMbE9H2/preview
+
+5. Gophish - Hardening and Advanced Techniques  [s5.html]
+    001. Hardening Our Server  ->  https://drive.google.com/file/d/10pgPjBYk3jlSsguwf_RzNVjNBmuJ1Clr/preview
+    002. Email Sender Hardening  ->  https://drive.google.com/file/d/113kO8gRrMFxRxeCjUuSc4qSiK6nujlcu/preview
+    003. Custom HTML for Emails  ->  https://drive.google.com/file/d/116JVSZg-QCrJiV3NYjovv27oT35i_WbD/preview
+    004. Custom HTML for Landing Pages  ->  https://drive.google.com/file/d/11AORRaUSaY5KRwfu9UjNFTyjwzCrDGTl/preview
+    005. Forgot your Password Do This  ->  https://drive.google.com/file/d/10wk2yXzC9HLQoUmTCnaShhnLvB6d1gZ7/preview
+    006. GoPhish Setup in a Nutshell  ->  https://drive.google.com/file/d/10r1tgHfb7kcM3kRB_nZThdqLuT9f9IED/preview
+
+6. Evilginx - MFA Bypass  [s6.html]
+    001. Evilginx Setup  ->  https://drive.google.com/file/d/11fRCOcklKOPFEBoBpsRAQwWzc2hTcJ4o/preview
+    002. DNS Fixes  ->  https://drive.google.com/file/d/11P9cieTNxEtRBVwy8EaHc2o2vvEDbBh-/preview
+    003. Running Evilginx  ->  https://drive.google.com/file/d/11jUFejC-6fiFHyYia6CQgPK0zwhTOuR8/preview
+    004. Setting Up Domains For Phishlets  ->  https://drive.google.com/file/d/11tuc2vePsH3nskySrqkeRXTeoYqSYJ8k/preview
+    005. Running a Custom Phishlet  ->  https://drive.google.com/file/d/11vbnCWPVn_Bn68nlt-vmWPu83YjOW_tb/preview
+    006. Combining the Power of Gophish and Evilginx  ->  https://drive.google.com/file/d/11w3Fg4kYUDCjK2CwbA4rXcXADcn3AKYR/preview
+    007. Protecting Evilginx  ->  https://drive.google.com/file/d/123aN8e4TJhQmBbO3By-xxkR1uBZgm1Wm/preview
+    008. Evilginx Setup in a Nutshell  ->  https://drive.google.com/file/d/120Jsl1GfyhFke7qvJyvT6SAMGnAJpxMX/preview
+
+7. Evilgophish - SMS Phishing  [s7.html]
+    001. Warning Twillio Changes  ->  https://drive.google.com/file/d/11wpbizXX0HmLDhePxewZiMnYPUXLWfh9/preview
+    002. Evilgophish Setup  ->  https://drive.google.com/file/d/1268WlQG85zNXmugST0g4EmSY85cUwzz3/preview
+    003. Evilgophish Admin Setup  ->  https://drive.google.com/file/d/12AtXXFgbJnQFLMXE6SrLSP8uj6K1fFlg/preview
+    004. Evilgophish Evilginx Setup  ->  https://drive.google.com/file/d/12KqDlP6DeijGd_3cohvCy2QXaTxPVgsC/preview
+    005. Twillio Setup  ->  https://drive.google.com/file/d/12Hp5_qKsjyyxuIq8RE7GE-Y_ZRDnpBrU/preview
+    006. Sending Our Smish  ->  https://drive.google.com/file/d/12L4Er_lJaRjpJd76rjWZRad7Ao_iKHE-/preview
+
+8. Vishing Strategies  [s8.html]
+    001. Vishing SMSing Advice  ->  https://drive.google.com/file/d/12NxdCx3QgWxWrwS5EanM7l7dHyiUAKUj/preview
+
+9. Reporting Documentation and Cleaning Up  [s9.html]
+    001. Tips for Defenders  ->  https://drive.google.com/file/d/12Q7d3mnrZ2nYdv_YkgQwZhUvAK4D_HWE/preview
+    002. Cleaning Up Our Domains  ->  https://drive.google.com/file/d/12mai8PLFrmZJlKoskwjuzEZbvWI4M5kN/preview
+    003. Gophish Event Logs  ->  https://drive.google.com/file/d/12lcZ2z3CifcxUJSW2KKDgfI7QGF5qz73/preview
+    004. Reporting and Documentation  ->  https://drive.google.com/file/d/12lWVd1SbFJDJPGjQwPDsTkJQm3MSffmv/preview
+
+10. Thank You  [s10.html]
+    001. Thanks  ->  https://drive.google.com/file/d/12jirZriBtV4CEOu92tQpbkHhMNp7yzR3/preview

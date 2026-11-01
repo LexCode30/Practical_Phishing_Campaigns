@@ -1,0 +1,394 @@
+{
+  "name": "Practical Phishing Campaigns",
+  "slug": "Practical_Phishing_Campaigns",
+  "url": "https://LexCode30.github.io/Practical_Phishing_Campaigns/",
+  "category": "cybersecurity",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Perimeter - A Cat and Mouse Game",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "About Me",
+          "id": "10GIAG5EYDWCgwvc60E0mFUn2ioOv51cJ",
+          "anchor": "v-10GIAG5EYDWCgwvc60E0mFUn2ioOv51cJ",
+          "href": "s1.html#v-10GIAG5EYDWCgwvc60E0mFUn2ioOv51cJ"
+        },
+        {
+          "number": 2,
+          "title": "About the Course",
+          "id": "10G3_ntM694AvToNGsGUcTF7xtl9XRlel",
+          "anchor": "v-10G3_ntM694AvToNGsGUcTF7xtl9XRlel",
+          "href": "s1.html#v-10G3_ntM694AvToNGsGUcTF7xtl9XRlel"
+        },
+        {
+          "number": 3,
+          "title": "An Important Announcement",
+          "id": "108xOPLUsNTc7JOeYFfcOLb9zi_TP7IT6",
+          "anchor": "v-108xOPLUsNTc7JOeYFfcOLb9zi_TP7IT6",
+          "href": "s1.html#v-108xOPLUsNTc7JOeYFfcOLb9zi_TP7IT6"
+        },
+        {
+          "number": 4,
+          "title": "Today s Perimeter",
+          "id": "107-S1c0aZTeZDhsKoO9MTmQvYf4WuC4b",
+          "anchor": "v-107-S1c0aZTeZDhsKoO9MTmQvYf4WuC4b",
+          "href": "s1.html#v-107-S1c0aZTeZDhsKoO9MTmQvYf4WuC4b"
+        },
+        {
+          "number": 5,
+          "title": "Modern Security Architecture",
+          "id": "10IknVZvfRLJ00ggW--zmAJgPW4qaIaKR",
+          "anchor": "v-10IknVZvfRLJ00ggW--zmAJgPW4qaIaKR",
+          "href": "s1.html#v-10IknVZvfRLJ00ggW--zmAJgPW4qaIaKR"
+        },
+        {
+          "number": 6,
+          "title": "Phishing Domains Advice",
+          "id": "101rVl_g9ClDZH_fyhMSZMbBlnULwOjGA",
+          "anchor": "v-101rVl_g9ClDZH_fyhMSZMbBlnULwOjGA",
+          "href": "s1.html#v-101rVl_g9ClDZH_fyhMSZMbBlnULwOjGA"
+        },
+        {
+          "number": 7,
+          "title": "Multi-Factor Authentication Advice",
+          "id": "1-vlR0Y8lDO-qQTRuCDrpRxLV85FGAf3v",
+          "anchor": "v-1-vlR0Y8lDO-qQTRuCDrpRxLV85FGAf3v",
+          "href": "s1.html#v-1-vlR0Y8lDO-qQTRuCDrpRxLV85FGAf3v"
+        },
+        {
+          "number": 8,
+          "title": "Spam Filters Avoidance Advice",
+          "id": "10IAB_6Frmc5j1lUl8xE6hNDDObDPUOo0",
+          "anchor": "v-10IAB_6Frmc5j1lUl8xE6hNDDObDPUOo0",
+          "href": "s1.html#v-10IAB_6Frmc5j1lUl8xE6hNDDObDPUOo0"
+        },
+        {
+          "number": 9,
+          "title": "Whitelisting Advice",
+          "id": "10TWiJHupErnNDmxCMVPVwB90rxhMLevN",
+          "anchor": "v-10TWiJHupErnNDmxCMVPVwB90rxhMLevN",
+          "href": "s1.html#v-10TWiJHupErnNDmxCMVPVwB90rxhMLevN"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Domain Registration",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Domain Registrar Options",
+          "id": "10T3u1GQdZ69_LCX9Cx279ZIQYH8gCSBE",
+          "anchor": "v-10T3u1GQdZ69_LCX9Cx279ZIQYH8gCSBE",
+          "href": "s2.html#v-10T3u1GQdZ69_LCX9Cx279ZIQYH8gCSBE"
+        },
+        {
+          "number": 2,
+          "title": "Amazon AWS Route 53 Setup",
+          "id": "10T1lHpRF8_MvFCHoxgdoFfzHY5lcLfud",
+          "anchor": "v-10T1lHpRF8_MvFCHoxgdoFfzHY5lcLfud",
+          "href": "s2.html#v-10T1lHpRF8_MvFCHoxgdoFfzHY5lcLfud"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Email Registration",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Email Registrar Options",
+          "id": "10NCc0ce_XMHn135jBU67kI1wRCmjdXYA",
+          "anchor": "v-10NCc0ce_XMHn135jBU67kI1wRCmjdXYA",
+          "href": "s3.html#v-10NCc0ce_XMHn135jBU67kI1wRCmjdXYA"
+        },
+        {
+          "number": 2,
+          "title": "Mailgun Setup",
+          "id": "10UffZqz6DYNAfkJhfam_NhKPs2m-6p48",
+          "anchor": "v-10UffZqz6DYNAfkJhfam_NhKPs2m-6p48",
+          "href": "s3.html#v-10UffZqz6DYNAfkJhfam_NhKPs2m-6p48"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Gophish - Basic Phishing",
+      "page": "s4.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Creating an AWS EC2 Instance",
+          "id": "10ZfBzAAjeVzkYyk4MUH9Eg_vG34oGoBs",
+          "anchor": "v-10ZfBzAAjeVzkYyk4MUH9Eg_vG34oGoBs",
+          "href": "s4.html#v-10ZfBzAAjeVzkYyk4MUH9Eg_vG34oGoBs"
+        },
+        {
+          "number": 2,
+          "title": "GoPhish Setup",
+          "id": "10dA6tEAXbIxogyEE3OHASoRljbRggVHA",
+          "anchor": "v-10dA6tEAXbIxogyEE3OHASoRljbRggVHA",
+          "href": "s4.html#v-10dA6tEAXbIxogyEE3OHASoRljbRggVHA"
+        },
+        {
+          "number": 3,
+          "title": "Configuring Gophish as a System Service",
+          "id": "10etA9BL3nAefUpPFHdhRaCu5jv2dETRn",
+          "anchor": "v-10etA9BL3nAefUpPFHdhRaCu5jv2dETRn",
+          "href": "s4.html#v-10etA9BL3nAefUpPFHdhRaCu5jv2dETRn"
+        },
+        {
+          "number": 4,
+          "title": "Configuring TLS Certificates",
+          "id": "10fWmvU2ARYb7yuRLNRF4pKH4apz5Vpf1",
+          "anchor": "v-10fWmvU2ARYb7yuRLNRF4pKH4apz5Vpf1",
+          "href": "s4.html#v-10fWmvU2ARYb7yuRLNRF4pKH4apz5Vpf1"
+        },
+        {
+          "number": 5,
+          "title": "Email Sending Profile Setup",
+          "id": "10mOQwIN7tDuN4K_sZbncztD6VTkOwNC1",
+          "anchor": "v-10mOQwIN7tDuN4K_sZbncztD6VTkOwNC1",
+          "href": "s4.html#v-10mOQwIN7tDuN4K_sZbncztD6VTkOwNC1"
+        },
+        {
+          "number": 6,
+          "title": "Sending Our First Campaign",
+          "id": "10nLvGHnFNEHtOmZAlLvlHtB0FEMbE9H2",
+          "anchor": "v-10nLvGHnFNEHtOmZAlLvlHtB0FEMbE9H2",
+          "href": "s4.html#v-10nLvGHnFNEHtOmZAlLvlHtB0FEMbE9H2"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Gophish - Hardening and Advanced Techniques",
+      "page": "s5.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Hardening Our Server",
+          "id": "10pgPjBYk3jlSsguwf_RzNVjNBmuJ1Clr",
+          "anchor": "v-10pgPjBYk3jlSsguwf_RzNVjNBmuJ1Clr",
+          "href": "s5.html#v-10pgPjBYk3jlSsguwf_RzNVjNBmuJ1Clr"
+        },
+        {
+          "number": 2,
+          "title": "Email Sender Hardening",
+          "id": "113kO8gRrMFxRxeCjUuSc4qSiK6nujlcu",
+          "anchor": "v-113kO8gRrMFxRxeCjUuSc4qSiK6nujlcu",
+          "href": "s5.html#v-113kO8gRrMFxRxeCjUuSc4qSiK6nujlcu"
+        },
+        {
+          "number": 3,
+          "title": "Custom HTML for Emails",
+          "id": "116JVSZg-QCrJiV3NYjovv27oT35i_WbD",
+          "anchor": "v-116JVSZg-QCrJiV3NYjovv27oT35i_WbD",
+          "href": "s5.html#v-116JVSZg-QCrJiV3NYjovv27oT35i_WbD"
+        },
+        {
+          "number": 4,
+          "title": "Custom HTML for Landing Pages",
+          "id": "11AORRaUSaY5KRwfu9UjNFTyjwzCrDGTl",
+          "anchor": "v-11AORRaUSaY5KRwfu9UjNFTyjwzCrDGTl",
+          "href": "s5.html#v-11AORRaUSaY5KRwfu9UjNFTyjwzCrDGTl"
+        },
+        {
+          "number": 5,
+          "title": "Forgot your Password Do This",
+          "id": "10wk2yXzC9HLQoUmTCnaShhnLvB6d1gZ7",
+          "anchor": "v-10wk2yXzC9HLQoUmTCnaShhnLvB6d1gZ7",
+          "href": "s5.html#v-10wk2yXzC9HLQoUmTCnaShhnLvB6d1gZ7"
+        },
+        {
+          "number": 6,
+          "title": "GoPhish Setup in a Nutshell",
+          "id": "10r1tgHfb7kcM3kRB_nZThdqLuT9f9IED",
+          "anchor": "v-10r1tgHfb7kcM3kRB_nZThdqLuT9f9IED",
+          "href": "s5.html#v-10r1tgHfb7kcM3kRB_nZThdqLuT9f9IED"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Evilginx - MFA Bypass",
+      "page": "s6.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Evilginx Setup",
+          "id": "11fRCOcklKOPFEBoBpsRAQwWzc2hTcJ4o",
+          "anchor": "v-11fRCOcklKOPFEBoBpsRAQwWzc2hTcJ4o",
+          "href": "s6.html#v-11fRCOcklKOPFEBoBpsRAQwWzc2hTcJ4o"
+        },
+        {
+          "number": 2,
+          "title": "DNS Fixes",
+          "id": "11P9cieTNxEtRBVwy8EaHc2o2vvEDbBh-",
+          "anchor": "v-11P9cieTNxEtRBVwy8EaHc2o2vvEDbBh-",
+          "href": "s6.html#v-11P9cieTNxEtRBVwy8EaHc2o2vvEDbBh-"
+        },
+        {
+          "number": 3,
+          "title": "Running Evilginx",
+          "id": "11jUFejC-6fiFHyYia6CQgPK0zwhTOuR8",
+          "anchor": "v-11jUFejC-6fiFHyYia6CQgPK0zwhTOuR8",
+          "href": "s6.html#v-11jUFejC-6fiFHyYia6CQgPK0zwhTOuR8"
+        },
+        {
+          "number": 4,
+          "title": "Setting Up Domains For Phishlets",
+          "id": "11tuc2vePsH3nskySrqkeRXTeoYqSYJ8k",
+          "anchor": "v-11tuc2vePsH3nskySrqkeRXTeoYqSYJ8k",
+          "href": "s6.html#v-11tuc2vePsH3nskySrqkeRXTeoYqSYJ8k"
+        },
+        {
+          "number": 5,
+          "title": "Running a Custom Phishlet",
+          "id": "11vbnCWPVn_Bn68nlt-vmWPu83YjOW_tb",
+          "anchor": "v-11vbnCWPVn_Bn68nlt-vmWPu83YjOW_tb",
+          "href": "s6.html#v-11vbnCWPVn_Bn68nlt-vmWPu83YjOW_tb"
+        },
+        {
+          "number": 6,
+          "title": "Combining the Power of Gophish and Evilginx",
+          "id": "11w3Fg4kYUDCjK2CwbA4rXcXADcn3AKYR",
+          "anchor": "v-11w3Fg4kYUDCjK2CwbA4rXcXADcn3AKYR",
+          "href": "s6.html#v-11w3Fg4kYUDCjK2CwbA4rXcXADcn3AKYR"
+        },
+        {
+          "number": 7,
+          "title": "Protecting Evilginx",
+          "id": "123aN8e4TJhQmBbO3By-xxkR1uBZgm1Wm",
+          "anchor": "v-123aN8e4TJhQmBbO3By-xxkR1uBZgm1Wm",
+          "href": "s6.html#v-123aN8e4TJhQmBbO3By-xxkR1uBZgm1Wm"
+        },
+        {
+          "number": 8,
+          "title": "Evilginx Setup in a Nutshell",
+          "id": "120Jsl1GfyhFke7qvJyvT6SAMGnAJpxMX",
+          "anchor": "v-120Jsl1GfyhFke7qvJyvT6SAMGnAJpxMX",
+          "href": "s6.html#v-120Jsl1GfyhFke7qvJyvT6SAMGnAJpxMX"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Evilgophish - SMS Phishing",
+      "page": "s7.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Warning Twillio Changes",
+          "id": "11wpbizXX0HmLDhePxewZiMnYPUXLWfh9",
+          "anchor": "v-11wpbizXX0HmLDhePxewZiMnYPUXLWfh9",
+          "href": "s7.html#v-11wpbizXX0HmLDhePxewZiMnYPUXLWfh9"
+        },
+        {
+          "number": 2,
+          "title": "Evilgophish Setup",
+          "id": "1268WlQG85zNXmugST0g4EmSY85cUwzz3",
+          "anchor": "v-1268WlQG85zNXmugST0g4EmSY85cUwzz3",
+          "href": "s7.html#v-1268WlQG85zNXmugST0g4EmSY85cUwzz3"
+        },
+        {
+          "number": 3,
+          "title": "Evilgophish Admin Setup",
+          "id": "12AtXXFgbJnQFLMXE6SrLSP8uj6K1fFlg",
+          "anchor": "v-12AtXXFgbJnQFLMXE6SrLSP8uj6K1fFlg",
+          "href": "s7.html#v-12AtXXFgbJnQFLMXE6SrLSP8uj6K1fFlg"
+        },
+        {
+          "number": 4,
+          "title": "Evilgophish Evilginx Setup",
+          "id": "12KqDlP6DeijGd_3cohvCy2QXaTxPVgsC",
+          "anchor": "v-12KqDlP6DeijGd_3cohvCy2QXaTxPVgsC",
+          "href": "s7.html#v-12KqDlP6DeijGd_3cohvCy2QXaTxPVgsC"
+        },
+        {
+          "number": 5,
+          "title": "Twillio Setup",
+          "id": "12Hp5_qKsjyyxuIq8RE7GE-Y_ZRDnpBrU",
+          "anchor": "v-12Hp5_qKsjyyxuIq8RE7GE-Y_ZRDnpBrU",
+          "href": "s7.html#v-12Hp5_qKsjyyxuIq8RE7GE-Y_ZRDnpBrU"
+        },
+        {
+          "number": 6,
+          "title": "Sending Our Smish",
+          "id": "12L4Er_lJaRjpJd76rjWZRad7Ao_iKHE-",
+          "anchor": "v-12L4Er_lJaRjpJd76rjWZRad7Ao_iKHE-",
+          "href": "s7.html#v-12L4Er_lJaRjpJd76rjWZRad7Ao_iKHE-"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Vishing Strategies",
+      "page": "s8.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Vishing SMSing Advice",
+          "id": "12NxdCx3QgWxWrwS5EanM7l7dHyiUAKUj",
+          "anchor": "v-12NxdCx3QgWxWrwS5EanM7l7dHyiUAKUj",
+          "href": "s8.html#v-12NxdCx3QgWxWrwS5EanM7l7dHyiUAKUj"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Reporting Documentation and Cleaning Up",
+      "page": "s9.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Tips for Defenders",
+          "id": "12Q7d3mnrZ2nYdv_YkgQwZhUvAK4D_HWE",
+          "anchor": "v-12Q7d3mnrZ2nYdv_YkgQwZhUvAK4D_HWE",
+          "href": "s9.html#v-12Q7d3mnrZ2nYdv_YkgQwZhUvAK4D_HWE"
+        },
+        {
+          "number": 2,
+          "title": "Cleaning Up Our Domains",
+          "id": "12mai8PLFrmZJlKoskwjuzEZbvWI4M5kN",
+          "anchor": "v-12mai8PLFrmZJlKoskwjuzEZbvWI4M5kN",
+          "href": "s9.html#v-12mai8PLFrmZJlKoskwjuzEZbvWI4M5kN"
+        },
+        {
+          "number": 3,
+          "title": "Gophish Event Logs",
+          "id": "12lcZ2z3CifcxUJSW2KKDgfI7QGF5qz73",
+          "anchor": "v-12lcZ2z3CifcxUJSW2KKDgfI7QGF5qz73",
+          "href": "s9.html#v-12lcZ2z3CifcxUJSW2KKDgfI7QGF5qz73"
+        },
+        {
+          "number": 4,
+          "title": "Reporting and Documentation",
+          "id": "12lWVd1SbFJDJPGjQwPDsTkJQm3MSffmv",
+          "anchor": "v-12lWVd1SbFJDJPGjQwPDsTkJQm3MSffmv",
+          "href": "s9.html#v-12lWVd1SbFJDJPGjQwPDsTkJQm3MSffmv"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Thank You",
+      "page": "s10.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Thanks",
+          "id": "12jirZriBtV4CEOu92tQpbkHhMNp7yzR3",
+          "anchor": "v-12jirZriBtV4CEOu92tQpbkHhMNp7yzR3",
+          "href": "s10.html#v-12jirZriBtV4CEOu92tQpbkHhMNp7yzR3"
+        }
+      ]
+    }
+  ]
+}
